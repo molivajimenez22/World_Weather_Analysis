@@ -13,7 +13,7 @@ Below is a snapshot of the database created using OpenWeatherMap API data. It in
 
 **Map with markers for each city**
     
-Below are maps created using Google Maps Direction API including markers, weather descriptions and itinerary.
+Below are maps created using Google Maps Direction API including markers, weather descriptions and itinerary. Starting & Ending Location: Fortuna, CA.
 
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/World_Weather_Analysis/blob/main/Vacation_Itinerary/all%20city%20marker.png">
@@ -25,6 +25,9 @@ Below are maps created using Google Maps Direction API including markers, weathe
 
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/World_Weather_Analysis/blob/main/Vacation_Itinerary/itinerary_markers.png">
+    
+<p align="center" width="100%">
+    <img width="66%" src="https://github.com/molivajimenez22/World_Weather_Analysis/blob/main/Vacation_Itinerary/Detail_Markers.png">    
 
 **Travel Itinerary Details**
 
