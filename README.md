@@ -12,6 +12,7 @@ Below is a snapshot of the database created using OpenWeatherMap API data. It in
     <img width="66%" src="https://github.com/molivajimenez22/World_Weather_Analysis/blob/main/Weather_Database/database.png">
 
 **Map with markers for each city**
+    
 Below are maps created using Google Maps Direction API including markers, weather descriptions and itinerary.
 
 <p align="center" width="100%">
